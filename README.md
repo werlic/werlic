@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @werlic
+- 👋 Hi, I’m @werlic a.k.a Agus Sulaeman
 - 👀 I’m interested in web developtment and data science
 - 🌱 Graduated as Bachelor degree Informatics
 - 💞️ I’m looking to collaborate on ...
