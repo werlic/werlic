@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @werlic
 - 👀 I’m interested in web developtment and data science
-- 🌱 I’m currently learning in UIN Sunan Gunung Djati, Bandung, Indonesia
+- 🌱 Graduated as Bachelor degree Informatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email agussulaeman453@yahoo.co.id
 
